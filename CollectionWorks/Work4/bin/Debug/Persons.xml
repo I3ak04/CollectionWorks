@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<person>
+  <Address>
+    <Street Street="fikin" />
+    <HouseNumber Street="2" />
+    <FlatNumber Street="23" />
+  </Address>
+  <Phones>
+    <MobilePhone Street="+998907546574" />
+    <FlatPhone Street="23" />
+  </Phones>
+</person>

@@ -1,0 +1,14 @@
+E:\VSPoject\Work1\Work4\bin\Debug\Work4.exe.config
+E:\VSPoject\Work1\Work4\bin\Debug\Work4.exe
+E:\VSPoject\Work1\Work4\bin\Debug\Work4.pdb
+E:\VSPoject\Work1\Work4\obj\Debug\Work4_xml.csproj.AssemblyReference.cache
+E:\VSPoject\Work1\Work4\obj\Debug\Work4_xml.csproj.CoreCompileInputs.cache
+E:\VSPoject\Work1\Work4\obj\Debug\Work4.exe
+E:\VSPoject\Work1\Work4\obj\Debug\Work4.pdb
+E:\VSPoject\CollectionWorks\Work4\bin\Debug\Work4.exe.config
+E:\VSPoject\CollectionWorks\Work4\bin\Debug\Work4.exe
+E:\VSPoject\CollectionWorks\Work4\bin\Debug\Work4.pdb
+E:\VSPoject\CollectionWorks\Work4\obj\Debug\Work4_Xml.csproj.AssemblyReference.cache
+E:\VSPoject\CollectionWorks\Work4\obj\Debug\Work4_Xml.csproj.CoreCompileInputs.cache
+E:\VSPoject\CollectionWorks\Work4\obj\Debug\Work4.exe
+E:\VSPoject\CollectionWorks\Work4\obj\Debug\Work4.pdb

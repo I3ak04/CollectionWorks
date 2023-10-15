@@ -1,0 +1,7 @@
+E:\VSPoject\Work1\CollectionsWorks\bin\Debug\CollectionsWorks.exe.config
+E:\VSPoject\Work1\CollectionsWorks\bin\Debug\CollectionsWorks.exe
+E:\VSPoject\Work1\CollectionsWorks\bin\Debug\CollectionsWorks.pdb
+E:\VSPoject\Work1\CollectionsWorks\obj\Debug\Work1.csproj.AssemblyReference.cache
+E:\VSPoject\Work1\CollectionsWorks\obj\Debug\Work1.csproj.CoreCompileInputs.cache
+E:\VSPoject\Work1\CollectionsWorks\obj\Debug\CollectionsWorks.exe
+E:\VSPoject\Work1\CollectionsWorks\obj\Debug\CollectionsWorks.pdb

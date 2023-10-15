@@ -1,0 +1,7 @@
+E:\VSPoject\Work1\Work2\bin\Debug\Work2.exe.config
+E:\VSPoject\Work1\Work2\bin\Debug\Work2.exe
+E:\VSPoject\Work1\Work2\bin\Debug\Work2.pdb
+E:\VSPoject\Work1\Work2\obj\Debug\Work2.csproj.AssemblyReference.cache
+E:\VSPoject\Work1\Work2\obj\Debug\Work2.csproj.CoreCompileInputs.cache
+E:\VSPoject\Work1\Work2\obj\Debug\Work2.exe
+E:\VSPoject\Work1\Work2\obj\Debug\Work2.pdb
